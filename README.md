@@ -19,13 +19,11 @@ Over the years, I have led **digital transformations**, **data strategy**, and *
 
 **Portfolio of Companies & Organizations Worked With:**
 <br>
-<img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="48" alt="World Bank" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="48" alt="UNIDO" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="48" alt="FCDO" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="48" alt="GIZ" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/usaid-real.png" height="48" alt="USAID" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/unicef.png" height="48" alt="UNICEF" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/asi-real.svg" height="48" alt="Adam Smith International" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="48" alt="World Bank" style="margin-right: 15px; vertical-align: middle;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="48" alt="UNIDO" style="margin-right: 15px; vertical-align: middle;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="48" alt="FCDO" style="margin-right: 15px; vertical-align: middle;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="48" alt="GIZ" style="margin-right: 15px; vertical-align: middle;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/asi-real.svg" height="70" alt="Adam Smith International" style="margin-right: 15px; vertical-align: middle;"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
