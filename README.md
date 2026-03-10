@@ -15,17 +15,17 @@ I am a Data Scientist and AI Architect specializing in building scalable AI syst
 
 ## Strategy, Consulting & Public Sector Experience
 
-Over the years, I have led **digital transformations**, **data strategy**, and **AI architectures** for high-impact national and international organizations. My work involves constructing predictive machine learning systems for revenue bodies, optimizing public debt through multi-billion-dollar simulation pipelines, and executing massive service delivery programs.
+Over the years, I have led **digital transformations**, **data strategy**, and **AI system rollouts support** for high-impact national and international organizations. My work involves constructing predictive machine learning systems for revenue bodies, optimizing public debt through multi-billion-dollar simulation pipelines, and executing massive service delivery programs.
 
-**Selected Partners & Clients:**
+**Portfolio of Companies & Organizations Worked With:**
 <br>
-<img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="40" alt="World Bank" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="40" alt="UNIDO" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="40" alt="FCDO" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="40" alt="GIZ" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/usaid-real.png" height="40" alt="USAID" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/unicef.png" height="40" alt="UNICEF" style="margin-right: 15px;"/>
-<img src="https://m-mahdikhan.up.railway.app/logos/asi-real.svg" height="40" alt="Adam Smith International" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="48" alt="World Bank" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="48" alt="UNIDO" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="48" alt="FCDO" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="48" alt="GIZ" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/usaid-real.png" height="48" alt="USAID" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/unicef.png" height="48" alt="UNICEF" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/asi-real.svg" height="48" alt="Adam Smith International" style="margin-right: 15px;"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -47,11 +47,6 @@ Over the years, I have led **digital transformations**, **data strategy**, and *
       <td align="right" width="30%"><b>Backend (Logic & DB)</b></td>
       <td align="left" width="70%">
         <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,go,postgres,mongodb,supabase&theme=dark" />
-        <br>
-        <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" />
-        <img height="48" src="https://cdn.simpleicons.org/langchain/1C1C1C" />
-        <img height="48" src="https://cdn.simpleicons.org/langfuse/000000" />
-        <img height="48" src="https://cdn.simpleicons.org/comet/0000ff" />
       </td>
     </tr>
     <!-- Middleware / Infra -->
