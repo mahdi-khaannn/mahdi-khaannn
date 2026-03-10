@@ -24,14 +24,14 @@ I am a Data Scientist and AI Architect specializing in building scalable AI syst
     <tr>
       <td align="right" width="30%"><b>Frontend (UI/UX)</b></td>
       <td align="left" width="70%">
-        <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,astro,angular,tailwind&theme=dark" />
       </td>
     </tr>
     <!-- Backend -->
     <tr>
       <td align="right" width="30%"><b>Backend (Logic & DB)</b></td>
       <td align="left" width="70%">
-        <img src="https://skillicons.dev/icons?i=python,nodejs,java,go,postgres,mongodb&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,go,postgres,mongodb&theme=dark" />
       </td>
     </tr>
     <!-- Middleware / Infra -->
