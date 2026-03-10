@@ -19,11 +19,31 @@ Over the years, I have led **digital transformations**, **data strategy**, and *
 
 ## Organizations Worked With
 <div align="left" style="margin-top: 10px;">
-  <img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="48" alt="World Bank" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
-  <img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="48" alt="UNIDO" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
-  <img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="48" alt="FCDO" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
-  <img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="48" alt="GIZ" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/asi-logo.svg" height="48" alt="Adam Smith International" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/world-bank-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://m-mahdikhan.up.railway.app/logos/world-bank.png">
+    <img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="48" alt="World Bank" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/unido-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/unido-real.svg">
+    <img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="48" alt="UNIDO" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/fcdo-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/fcdo-real.svg">
+    <img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="48" alt="FCDO" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/giz-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/giz-real.svg">
+    <img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="48" alt="GIZ" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/asi-logo-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/asi-logo.svg">
+    <img src="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/asi-logo.svg" height="48" alt="Adam Smith International" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
+  </picture>
 </div>
 
 <div align="center">
