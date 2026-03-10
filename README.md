@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 👨‍💻 `init_identity.json`
+## 👨‍💻 About Me
 
 ```json
 {
@@ -31,16 +31,14 @@
 ```
 
 <div align="center">
-  <a href="https://example.com/primea">
-    <img src="./primea-logo.png" width="40" alt="Primea Logo" />
-  </a>
+  <p>🏢 Co-founder @ <a href="https://primeaconsulting.com">Primea Consulting</a></p>
 </div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 📊 `system_telemetry.dashboard`
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -74,7 +72,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 🛠️ `stack_dependencies.yaml`
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -113,7 +111,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 🐍 `activity_footprint.log`
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
