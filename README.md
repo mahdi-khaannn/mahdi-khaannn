@@ -31,14 +31,19 @@ I am a Data Scientist and AI Architect specializing in building scalable AI syst
     <tr>
       <td align="right" width="30%"><b>Backend (Logic & DB)</b></td>
       <td align="left" width="70%">
-        <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,go,postgres,mongodb&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,go,postgres,mongodb,supabase&theme=dark" />
+        <br>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white" />
+        <img src="https://img.shields.io/badge/Comet--ML-0000ff?style=for-the-badge&logo=comet&logoColor=white" />
       </td>
     </tr>
     <!-- Middleware / Infra -->
     <tr>
       <td align="right" width="30%"><b>Middleware / Infra</b></td>
       <td align="left" width="70%">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,sentry,postman&theme=dark" />
       </td>
     </tr>
     <!-- Misc / Engine -->
