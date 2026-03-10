@@ -12,6 +12,21 @@ I am a Data Scientist and AI Architect specializing in building scalable AI syst
 
 - **Current Focus:** Advanced Distributed Systems and State-of-the-Art AI Frameworks
 - **Organization:** Co-founder at [Primea Consulting](https://primeaconsulting.com)
+
+## Strategy, Consulting & Public Sector Experience
+
+Over the years, I have led **digital transformations**, **data strategy**, and **AI architectures** for high-impact national and international organizations. My work involves constructing predictive machine learning systems for revenue bodies, optimizing public debt through multi-billion-dollar simulation pipelines, and executing massive service delivery programs.
+
+**Selected Partners & Clients:**
+<br>
+<img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="40" alt="World Bank" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="40" alt="UNIDO" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="40" alt="FCDO" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="40" alt="GIZ" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/usaid-real.png" height="40" alt="USAID" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/unicef.png" height="40" alt="UNICEF" style="margin-right: 15px;"/>
+<img src="https://m-mahdikhan.up.railway.app/logos/asi-real.svg" height="40" alt="Adam Smith International" style="margin-right: 15px;"/>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
@@ -33,10 +48,10 @@ I am a Data Scientist and AI Architect specializing in building scalable AI syst
       <td align="left" width="70%">
         <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,go,postgres,mongodb,supabase&theme=dark" />
         <br>
-        <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white" />
-        <img src="https://img.shields.io/badge/Comet--ML-0000ff?style=for-the-badge&logo=comet&logoColor=white" />
+        <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" />
+        <img height="48" src="https://cdn.simpleicons.org/langchain/1C1C1C" />
+        <img height="48" src="https://cdn.simpleicons.org/langfuse/000000" />
+        <img height="48" src="https://cdn.simpleicons.org/comet/0000ff" />
       </td>
     </tr>
     <!-- Middleware / Infra -->
@@ -64,8 +79,8 @@ I am a Data Scientist and AI Architect specializing in building scalable AI syst
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=58A6FF&color_dots=#0D1117,#161b22,#253754,#3a6094,#58a6ff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mahdi-khaannn/mahdi-khaannn/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=58A6FF&color_dots=#0D1117,#161b22,#253754,#3a6094,#58a6ff">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=58A6FF&color_dots=#0D1117,#161b22,#253754,#3a6094,#58a6ff">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=58A6FF&color_dots=#0D1117,#161b22,#253754,#3a6094,#58a6ff">
+    <img alt="github contribution grid snake animation" src="https://github.com/mahdi-khaannn/mahdi-khaannn/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=58A6FF&color_dots=#0D1117,#161b22,#253754,#3a6094,#58a6ff">
   </picture>
 </div>
