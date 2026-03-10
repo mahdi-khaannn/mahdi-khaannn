@@ -17,15 +17,13 @@ I am a Data Scientist and AI Architect specializing in building scalable AI syst
 
 Over the years, I have led **digital transformations**, **data strategy**, and **AI system rollout support** for high-impact national and international organizations. My work involves constructing predictive machine learning systems for revenue bodies, optimizing public debt through multi-billion-dollar simulation pipelines, and executing massive service delivery programs.
 
-## Portfolio
-
-**Organizations worked with:**
+## Organizations Worked With
 <div align="left" style="margin-top: 10px;">
   <img src="https://m-mahdikhan.up.railway.app/logos/world-bank.png" height="48" alt="World Bank" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
   <img src="https://m-mahdikhan.up.railway.app/logos/unido-real.svg" height="48" alt="UNIDO" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
   <img src="https://m-mahdikhan.up.railway.app/logos/fcdo-real.svg" height="48" alt="FCDO" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
   <img src="https://m-mahdikhan.up.railway.app/logos/giz-real.svg" height="48" alt="GIZ" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
-  <img src="https://m-mahdikhan.up.railway.app/logos/asi-real.svg" height="80" alt="Adam Smith International" style="margin: 0 15px 15px 0; padding: 0px; max-width: 200px; object-fit: contain; vertical-align: middle; transform: scale(1.3); margin-top: -15px;"/>
+  <img src="https://raw.githubusercontent.com/mahdi-khaannn/mahdi-khaannn/main/assets/asi-logo.svg" height="48" alt="Adam Smith International" style="margin: 0 15px 15px 0; padding: 5px; max-width: 140px; object-fit: contain; vertical-align: middle;"/>
 </div>
 
 <div align="center">
